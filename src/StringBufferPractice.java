@@ -31,6 +31,7 @@ public class StringBufferPractice {
 
         int C = (int)(S.charAt(6));
         System.out.println("ASCI Value of Character at 6: "+ C);
+        System.out.println("ASCI Value of Character at 6: ");
 
 
         int [] myChar = {1,2,3,4,5};
